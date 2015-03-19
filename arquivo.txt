@@ -1,1 +1,6 @@
-Ola mundo!! Alterado
+Olá mundo!
+
+Sistema desenvolvido por:
+Bruno Henrique (https://github.com/brunohdev)
+
+Maiores informações: brunohdev@gmail.com
